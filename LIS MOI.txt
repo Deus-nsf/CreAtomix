@@ -1,0 +1,29 @@
+
+	*vieux russe possédant un accent et un visage qui inspire la confiance*
+
+CreAtomix tres tres bien marcher !
+Pas bugs.
+Tres tres jouli.
+
+
+
+
+blague à part, hormis son cote "pas fini" et son code un peu rushé ^^, le jeu fonctionne bien.
+
+les flèches directionnelles permettent de déplacer le curseur du menu et celui ingame.
+la touche entrée permet d'effectuer toutes les actions.
+
+il y a 10 niveaux. si on les reussis tous, en plus des points accumulés, on décroche un jackpot de points.
+dans tout les cas, qu'on ait gagné tous les tableaux ou perdu, le jeu enregistre le nom et le score du joueur
+au moment de la victoire totale, ou de la défaite, mais pas si on quitte brusquement le programme !
+
+Le seul truc c'est qu'il n'y a pas d'écran de victoire ou de defaite, faute de temps !
+Donc le programme se ferme brusquement si on perd ou on gagne mais les scores s'enregistrent bien.
+La victoire et la defaite sont quand meme bien prises en compte dans le code, avec la gestion des points.
+
+On peut acceder aux high scores depuis le menu principal.
+
+
+
+
+Toi pouvoir faire confiance, tres honette. Moi toujours dire verite.
